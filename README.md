@@ -9,4 +9,6 @@ Launch keyboard teleop to move the robot around
 `roslaunch turtlebot_teleop keyboard_teleop.launch`
 Run the gmapping demo
 `roslaunch turtlebot_navigation gmapping_demo.launch`
+And view the data in rviz  
+`roslaunch turtlebot_rviz_launchers view_navigation.launch`
 
